@@ -1,0 +1,15 @@
+{
+  "short_name": "Mini Dogs",
+  "name": "Mini Dogs",
+  "icons": [
+    {
+      "src": "mdi_dog.svg",
+      "sizes": "40x40",
+      "type": "image/x-svg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
