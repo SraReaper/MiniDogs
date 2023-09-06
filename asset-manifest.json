@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/MiniDogs/static/css/main.a9f90052.css",
-    "main.js": "/MiniDogs/static/js/main.06553bcf.js",
-    "index.html": "/MiniDogs/index.html",
-    "main.a9f90052.css.map": "/MiniDogs/static/css/main.a9f90052.css.map",
-    "main.06553bcf.js.map": "/MiniDogs/static/js/main.06553bcf.js.map"
+    "main.css": "/minidogs/static/css/main.a9f90052.css",
+    "main.js": "/minidogs/static/js/main.06553bcf.js",
+    "index.html": "/minidogs/index.html",
+    "main.a9f90052.css.map": "/minidogs/static/css/main.a9f90052.css.map",
+    "main.06553bcf.js.map": "/minidogs/static/js/main.06553bcf.js.map"
   },
   "entrypoints": [
     "static/css/main.a9f90052.css",
